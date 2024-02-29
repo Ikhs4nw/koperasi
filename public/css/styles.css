@@ -1,0 +1,22 @@
+.x-text-input {
+    box-shadow: none !important;
+}
+.x-input-error {
+    position: absolute;
+    margin-top: 2px;
+    list-style-type: none;
+    padding-left: 0;
+    color: red;
+    font-size: 0.8rem;
+}
+
+.notif-email-unverified {
+    color: red;
+    font: small;
+}
+
+.text-email-verivication {
+    font: medium;
+    font: small;
+    color: red;
+}
